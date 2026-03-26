@@ -2,7 +2,7 @@
 
 ### A passionate FullStack Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=derekdao02&label=Profile views&color=0e75b6&style=flat" alt="derekdao02" /> </p>
+
 
 - 🌱 I'm currently learning **DevOps**
 
