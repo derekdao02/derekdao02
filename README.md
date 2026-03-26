@@ -20,7 +20,50 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/elasticsearch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=elasticsearch" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kafka" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mssql" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/openresty" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="openresty" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rabbitMQ" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rails" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rails" alt="rails" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ruby" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ruby" alt="ruby" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a></p>
+<p align="left">
+
+  <!-- Frontend -->
+  <a href="#"><img src="https://skillicons.dev/icons?i=html" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=css" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=js" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=react" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=bootstrap" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=sass" width="40"/></a>
+
+  <!-- Backend -->
+  <a href="#"><img src="https://skillicons.dev/icons?i=cs" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=dotnet" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=py" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=ruby" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=rails" width="40"/></a>
+
+  <!-- Database -->
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=postgres" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=sqlite" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=redis" width="40"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/></a>
+
+  <!-- DevOps / Infra -->
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=aws" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=nginx" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linux" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=bash" width="40"/></a>
+
+  <!-- Messaging / Search -->
+  <a href="#"><img src="https://skillicons.dev/icons?i=kafka" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=rabbitmq" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=elasticsearch" width="40"/></a>
+
+  <!-- Tools -->
+  <a href="#"><img src="https://skillicons.dev/icons?i=git" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=postman" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=figma" width="40"/></a>
+
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=derekdao02&" alt="derekdao02" /></p>
 
