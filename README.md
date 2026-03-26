@@ -19,10 +19,10 @@
 <a href="https://fb.com/Koios110902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Koios110902" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stack</h3>
 <p align="left">
   <!-- Core -->
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,react,js,ruby" />
 
   <!-- Infra -->
   <img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux" />
